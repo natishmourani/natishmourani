@@ -1040,6 +1040,7 @@ text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Deja
 <rect x="792" y="420" width="11" height="11" rx="2" fill="#1a1f28"/>
 <rect x="792" y="434" width="11" height="11" rx="2" fill="#1a1f28"/>
 <rect x="792" y="448" width="11" height="11" rx="2" fill="#9ecbff"/>
+<rect x="792" y="462" width="11" height="11" rx="2" fill="#1a1f28"/>
 <text x="665" y="525" font-size="9" font-weight="400" fill="#5c6672" textLength="21.6" lengthAdjust="spacingAndGlyphs">LESS</text>
 <rect x="699" y="516" width="11" height="11" rx="2" fill="#1a1f28"/>
 <rect x="713" y="516" width="11" height="11" rx="2" fill="#1d4257"/>
@@ -1051,7 +1052,7 @@ text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Deja
 <text x="853" y="412" font-size="9.5" font-weight="700" letter-spacing=".18em" fill="#5c6672" textLength="106.4" lengthAdjust="spacing">CURRENT STREAK</text>
 <text x="1036" y="412" font-size="11.5" font-weight="400" fill="#e8ecf1" text-anchor="end" textLength="34.5" lengthAdjust="spacingAndGlyphs">1 day</text>
 <text x="853" y="438" font-size="9.5" font-weight="700" letter-spacing=".18em" fill="#5c6672" textLength="83.6" lengthAdjust="spacing">LAST COMMIT</text>
-<text x="1036" y="438" font-size="11.5" font-weight="400" fill="#e8ecf1" text-anchor="end" textLength="34.5" lengthAdjust="spacingAndGlyphs">today</text>
+<text x="1036" y="438" font-size="11.5" font-weight="400" fill="#e8ecf1" text-anchor="end" textLength="62.1" lengthAdjust="spacingAndGlyphs">yesterday</text>
 <text x="853" y="464" font-size="9.5" font-weight="700" letter-spacing=".18em" fill="#5c6672" textLength="83.6" lengthAdjust="spacing">BUSIEST DAY</text>
 <text x="1036" y="464" font-size="11.5" font-weight="400" fill="#e8ecf1" text-anchor="end" textLength="69.0" lengthAdjust="spacingAndGlyphs">28 aug '25</text>
 <text x="853" y="490" font-size="9.5" font-weight="700" letter-spacing=".18em" fill="#5c6672" textLength="83.6" lengthAdjust="spacing">PEAK VOLUME</text>
