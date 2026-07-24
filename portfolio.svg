@@ -664,7 +664,7 @@ text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Deja
 <text x="64.0" y="410" class="cap" fill="#5c6672" textLength="123.2" lengthAdjust="spacing">CURRENT STREAK</text>
 <text x="64.0" y="435" font-size="17" font-weight="400" fill="#e8ecf1" textLength="61.2" lengthAdjust="spacingAndGlyphs">2 days</text>
 <text x="307.0" y="410" class="cap" fill="#5c6672" textLength="96.8" lengthAdjust="spacing">LAST COMMIT</text>
-<text x="307.0" y="435" font-size="17" font-weight="400" fill="#e8ecf1" textLength="51.0" lengthAdjust="spacingAndGlyphs">today</text>
+<text x="307.0" y="435" font-size="17" font-weight="400" fill="#e8ecf1" textLength="91.8" lengthAdjust="spacingAndGlyphs">yesterday</text>
 <text x="550.0" y="410" class="cap" fill="#5c6672" textLength="96.8" lengthAdjust="spacing">BUSIEST DAY</text>
 <text x="550.0" y="435" font-size="17" font-weight="400" fill="#e8ecf1" textLength="112.2" lengthAdjust="spacingAndGlyphs">28 aug 2025</text>
 <text x="793.0" y="410" class="cap" fill="#5c6672" textLength="96.8" lengthAdjust="spacing">PEAK VOLUME</text>
