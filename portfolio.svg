@@ -645,8 +645,8 @@ text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Deja
 <line x1="423" y1="214" x2="677" y2="214" stroke="#242c36" stroke-dasharray="2 4"/>
 <line x1="423" y1="262.0" x2="677" y2="262.0" stroke="#242c36" stroke-dasharray="2 4"/>
 <line x1="423" y1="310" x2="677" y2="310" stroke="#242c36" stroke-dasharray="2 4"/>
-<path d="M 423.0 310 L 423.0 310.0 L 433.2 310.0 L 443.3 310.0 L 453.5 310.0 L 463.6 310.0 L 473.8 310.0 L 484.0 310.0 L 494.1 310.0 L 504.3 299.9 L 514.4 219.1 L 524.6 274.6 L 534.8 294.8 L 544.9 279.7 L 555.1 299.9 L 565.2 310.0 L 575.4 310.0 L 585.6 249.4 L 595.7 310.0 L 605.9 279.7 L 616.0 284.7 L 626.2 310.0 L 636.4 269.6 L 646.5 249.4 L 656.7 310.0 L 666.8 310.0 L 677.0 214.0 L 677.0 310 Z" fill="#9ecbff" fill-opacity=".10"/>
-<polyline points="423.0,310.0 433.2,310.0 443.3,310.0 453.5,310.0 463.6,310.0 473.8,310.0 484.0,310.0 494.1,310.0 504.3,299.9 514.4,219.1 524.6,274.6 534.8,294.8 544.9,279.7 555.1,299.9 565.2,310.0 575.4,310.0 585.6,249.4 595.7,310.0 605.9,279.7 616.0,284.7 626.2,310.0 636.4,269.6 646.5,249.4 656.7,310.0 666.8,310.0 677.0,214.0" fill="none" stroke="#9ecbff" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 423.0 310 L 423.0 310.0 L 433.2 310.0 L 443.3 310.0 L 453.5 310.0 L 463.6 310.0 L 473.8 310.0 L 484.0 310.0 L 494.1 310.0 L 504.3 302.3 L 514.4 240.9 L 524.6 283.1 L 534.8 298.5 L 544.9 287.0 L 555.1 302.3 L 565.2 310.0 L 575.4 310.0 L 585.6 263.9 L 595.7 310.0 L 605.9 287.0 L 616.0 290.8 L 626.2 310.0 L 636.4 279.3 L 646.5 263.9 L 656.7 310.0 L 666.8 310.0 L 677.0 214.0 L 677.0 310 Z" fill="#9ecbff" fill-opacity=".10"/>
+<polyline points="423.0,310.0 433.2,310.0 443.3,310.0 453.5,310.0 463.6,310.0 473.8,310.0 484.0,310.0 494.1,310.0 504.3,302.3 514.4,240.9 524.6,283.1 534.8,298.5 544.9,287.0 555.1,302.3 565.2,310.0 575.4,310.0 585.6,263.9 595.7,310.0 605.9,287.0 616.0,290.8 626.2,310.0 636.4,279.3 646.5,263.9 656.7,310.0 666.8,310.0 677.0,214.0" fill="none" stroke="#9ecbff" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
 <line x1="423" y1="310" x2="677" y2="310" stroke="#5c6672"/>
 <g><circle cx="677.0" cy="214.0" r="3.4" fill="#f0a202"/><circle cx="677.0" cy="214.0" r="3.4" fill="none" stroke="#f0a202" stroke-width="1.2"><animate attributeName="r" values="3.4;11" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2s" repeatCount="indefinite"/></circle></g>
 <text x="423" y="326" font-size="10" font-weight="400" fill="#5c6672" textLength="42.0" lengthAdjust="spacingAndGlyphs">feb '26</text>
@@ -654,7 +654,7 @@ text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Deja
 <text x="423" y="338" font-size="10.5" font-weight="400" fill="#5c6672" textLength="126.0" lengthAdjust="spacingAndGlyphs">trend — accelerating</text>
 <text x="792" y="200" font-size="30" font-weight="700" fill="#f0a202" text-anchor="end" textLength="36.0" lengthAdjust="spacingAndGlyphs">14</text>
 <text x="808" y="194" class="cap" fill="#5c6672" textLength="105.6" lengthAdjust="spacing">REPOSITORIES</text>
-<text x="792" y="246" font-size="30" font-weight="700" fill="#f0a202" text-anchor="end" textLength="54.0" lengthAdjust="spacingAndGlyphs">114</text>
+<text x="792" y="246" font-size="30" font-weight="700" fill="#f0a202" text-anchor="end" textLength="54.0" lengthAdjust="spacingAndGlyphs">120</text>
 <text x="808" y="240" class="cap" fill="#5c6672" textLength="167.2" lengthAdjust="spacing">CONTRIBUTIONS · 12M</text>
 <text x="792" y="292" font-size="30" font-weight="700" fill="#f0a202" text-anchor="end" textLength="36.0" lengthAdjust="spacingAndGlyphs">33</text>
 <text x="808" y="286" class="cap" fill="#5c6672" textLength="96.8" lengthAdjust="spacing">ACTIVE DAYS</text>
@@ -666,9 +666,9 @@ text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Deja
 <text x="307.0" y="410" class="cap" fill="#5c6672" textLength="96.8" lengthAdjust="spacing">LAST COMMIT</text>
 <text x="307.0" y="435" font-size="17" font-weight="400" fill="#e8ecf1" textLength="51.0" lengthAdjust="spacingAndGlyphs">today</text>
 <text x="550.0" y="410" class="cap" fill="#5c6672" textLength="96.8" lengthAdjust="spacing">BUSIEST DAY</text>
-<text x="550.0" y="435" font-size="17" font-weight="400" fill="#e8ecf1" textLength="112.2" lengthAdjust="spacingAndGlyphs">28 aug 2025</text>
+<text x="550.0" y="435" font-size="17" font-weight="400" fill="#e8ecf1" textLength="112.2" lengthAdjust="spacingAndGlyphs">11 aug 2026</text>
 <text x="793.0" y="410" class="cap" fill="#5c6672" textLength="96.8" lengthAdjust="spacing">PEAK VOLUME</text>
-<text x="793.0" y="435" font-size="17" font-weight="400" fill="#e8ecf1" textLength="102.0" lengthAdjust="spacingAndGlyphs">12 commits</text></g>
+<text x="793.0" y="435" font-size="17" font-weight="400" fill="#e8ecf1" textLength="102.0" lengthAdjust="spacingAndGlyphs">13 commits</text></g>
 <!--ACTIVITY:END-->
 <g transform="translate(0, 3291)">
     <text xmlns="http://www.w3.org/2000/svg" x="64" y="76" font-size="46" font-weight="300" fill="#e8ecf1" textLength="138.0" lengthAdjust="spacingAndGlyphs">0x005</text>
